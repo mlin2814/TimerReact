@@ -12,10 +12,10 @@ var Nav = React.createClass({
 							<IndexLink to="/" activeClassName="active" activeStyle={{fontWeight: 'bold'}}>Timer</IndexLink>
 						</li>
 						<li>
-							<Link to="/countdown" activeClassName="active" activeStyle={{fontWeight: 'bold'}}>Countdown</Link>
+							<Link to="/countdown" activeClassName="active" activeStyle={{fontWeight: 'bold'}}>Countdown Clock</Link>
 						</li>
 						<li className="menu-text">
-							Builder Portfolio <a href="https://sheltered-taiga-20526.herokuapp.com/" target="_blank"></a>
+							<a href="https://sheltered-taiga-20526.herokuapp.com/" target="_blank">Builder Portfolio </a>
 						</li>
 					</ul>
 				</div>
