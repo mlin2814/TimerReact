@@ -8,7 +8,11 @@
 	}
 
 	.menu > li > a {
-		padding: 0;
+		padding: 0.5;
 		color: $nav-link-color;
+	}
+
+	.active-link {
+		font-weight: bold;
 	}
 }
