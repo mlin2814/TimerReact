@@ -15,7 +15,7 @@ var Nav = React.createClass({
 							<Link to="/countdown" activeClassName="active" activeStyle={{fontWeight: 'bold'}}>Countdown Clock</Link>
 						</li>
 						<li className="menu-text">
-							<a href="https://sheltered-taiga-20526.herokuapp.com/" target="_blank">Builder Portfolio </a>
+							<a href="https://mlin2814.github.io/" target="_blank">Builder Portfolio </a>
 						</li>
 					</ul>
 				</div>
